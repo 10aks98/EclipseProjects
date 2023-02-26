@@ -5,5 +5,6 @@ public class Multiplication {
 		int a=23;
 		int b=1;
 		int c=a*b;
+		int e;
 	}
 }
