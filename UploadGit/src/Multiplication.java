@@ -6,5 +6,6 @@ public class Multiplication {
 		int b=1;
 		int c=a*b;
 		int e;
+		System.out.println("Multiplication "+c);
 	}
 }
